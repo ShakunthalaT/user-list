@@ -74,17 +74,16 @@ Error Handling:
     Reflect on the challenges faced during the development process and any improvements you would make if given more time.
 
 
-## Resources
-
-### Design files
-
-    List the references of design files required for the Assignment
-
 ### APIs
+     Back-End API URL's using Node.js
+    Get:https://users-8qua.onrender.com
 
-    List the APIs, providing any relevant endpoints, documentation links, or access keys, required for the Assignment if any
+    Post:https://users-8qua.onrender.com
+    
 
 ### Third-party packages
 
     Third-party packages:
-    react-router-dom
+
+    react-router-dom, 
+    react-loader-spinner
