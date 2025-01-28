@@ -1,0 +1,61 @@
+.ul-container{
+    border-radius: 12px;
+    padding-left: 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.list-items{
+display: flex;
+  background-color: #378caf;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 50px;
+}
+
+.head-line{
+    color: #f1f5f9;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    width: 20%;
+    margin: 0px;
+    padding-right: 30px;
+} 
+
+.first-name{
+    width:30%
+}
+.last-name{
+    width:30%
+} 
+.email{
+    width:30%;
+}
+.depart{
+    width:30%;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    padding: 8px 16px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .pagination button:disabled {
+    cursor: not-allowed;
+    background-color: #f0f0f0;
+  }
+  
+  .pagination button.active {
+    background-color: #007bff;
+    color: white;
+  }
+  

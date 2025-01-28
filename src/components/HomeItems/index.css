@@ -1,0 +1,59 @@
+.list-row-container{
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid #cbd5e164;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+} 
+
+.table-container{
+    width:20%;
+} 
+
+.text{
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0px;
+} 
+
+.first{
+    width:30%;
+} 
+.last{
+    width:15%;
+} 
+
+.edit-btn{
+    background-color:#023020;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0px;
+  border-radius: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: #fff;
+   
+}
+.delete-btn{
+    background-color:#8B0000;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+  font-family: 'Roboto';
+  font-size: 16px;
+  border-radius: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: #fff;
+ 
+}
+
+.button-container{
+    width:10%;
+}
